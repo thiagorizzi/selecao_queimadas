@@ -21,10 +21,12 @@ This is an evaluation project for an INPE's position.
     * Download Anaconda for package management or install them on your own. (flask, pandas, plotly).
     * Run the application.
 
+Obs: You can also create an executable with pyinstaller --onefile app.py. (required pyinstaller installation) 
+
 ## YOUTUBE VIDEO WITH  THE EXECUTION PROCESS. 
 ### CLICK BELOW:
 
-[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
+[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=6iPv-OzFnKE)
 
 
 
