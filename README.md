@@ -18,11 +18,13 @@ This is an evaluation project for an INPE's position.
 * Clone this repository
 * You'll need the following applications: 
     * VSCODE or your favorite IDE.
-    * Download Anaconda for package management or install them on your own. (flask, pandas, json, plotly).
+    * Download Anaconda for package management or install them on your own. (flask, pandas, plotly).
     * Run the application.
 
 ## YOUTUBE VIDEO WITH  THE EXECUTION PROCESS. 
 ### CLICK BELOW:
+
+[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
 
 
 
